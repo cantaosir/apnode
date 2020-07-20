@@ -1,0 +1,15 @@
+*.suo
+.setup
+.svn/*
+*.log
+/.vs/
+desktop.ini 
+thumbs.db  
+web.config
+JAVA/jdk1.8.0_172.x64/*
+apmanger/bin/*
+apmanger/obj/*
+apmanger/.vs/*
+WinswMySQL57x64/*
+mysql.5.7.x64/*
+mysql.8.0.x64/*
