@@ -5,11 +5,9 @@
 /.vs/
 desktop.ini 
 thumbs.db  
-web.config
-JAVA/jdk1.8.0_172.x64/*
+web.config 
 apmanger/bin/*
 apmanger/obj/*
-apmanger/.vs/*
-WinswMySQL57x64/*
+apmanger/.vs/* 
 mysql.5.7.x64/*
 mysql.8.0.x64/*
