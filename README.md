@@ -1,4 +1,8 @@
 # apnode 
+#### 项目调整
+调整为简易版, 原项目转移至 apnode_huge 
+> https://gitee.com/cantaosir/apnode_huge
+
 #### 项目介绍
 Windows （或包括Linux MacOS）通过 NodeJS 管理服务的管理工具集 
 Nginx，PHP，MySQL， 扩展，
@@ -6,7 +10,7 @@ Apache，Redis，MongoDB，FTP，Git，SVN
 
 #### 软件目录架构 
 使用 Winsw 将一些程序转为服务运行，  
-\apnode\ahost 放默认网站文件 ，  
+\apnode\data\ahost 放默认网站文件 ，  
 \apnode\.tool 放常用工具和一些配置文件 NotePad2  MiniThunder 已经内置
 \apnode\apmanger 为C#管理工具，目前未开发，生产管理文件 apmanger.exe 当前仅为示例占坑  
 运行库 vcredist 需要自行安装，PHP程序目录下有VisualStudio2012_vcredist_x64.exe  
