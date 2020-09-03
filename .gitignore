@@ -11,3 +11,8 @@ apmanger/obj/*
 apmanger/.vs/* 
 mysql.5.7.x64/*
 mysql.8.0.x64/*
+JAVA/*
+NODE/*
+PYTHON/*
+CONDA/*
+ENV/*
