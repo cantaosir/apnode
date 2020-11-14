@@ -1,7 +1,7 @@
 # apnode 
 #### 项目调整
 调整为简易版, 原项目转移至 apnode_huge 
-> https://gitee.com/cantaosir/apnode_huge
+> https://gitee.com/apnode/apnode_huge
 
 #### 项目介绍
 Windows （或包括Linux MacOS）通过 NodeJS 管理服务的管理工具集 
