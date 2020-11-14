@@ -40,7 +40,8 @@ Apache，Redis，MongoDB，FTP，Git，SVN
 1. JAVA ,   
     > http://www.oracle.com/technetwork/java/javase/archive-139210.html 建议 8u201 看说明尾号是奇数版的比偶数版的稳定
 2. NODEJS，
-	> https://nodejs.org/zh-cn/download/  
+    > https://nodejs.org/zh-cn/download/  
+    > https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi 最近更新lts
     > https://nodejs.org/dist/v12.13.0/node-v12.13.0-win-x64.zip  
     > https://nodejs.org/dist/v8.11.4/node-v8.11.4-x64.msi 旧版  
 3. MySQL, 推荐5.7
